@@ -1,0 +1,7 @@
+print = input("==== USER PROFILE ====")
+name = input("Name: Virna Elaiza M. Labsan ")
+age = input("Age: 18 ")
+course = input("Course: BSIT ")
+section = input("Section: BSIT1-S9 ")
+address = input("Address: Barangay07, Casiguran, Aurora Philippines, 3204 ")
+favorite_food = input("Favorite Food: Sinigang ")
